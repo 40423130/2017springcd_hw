@@ -49,7 +49,8 @@
 window.onload = function(){
     var madeleine = new Madeleine({
       target: 'target', // target div id
-      data: './../data/Fourbar Walker.stl', // data path
+      data: './../work/Fourbar.stl', // data path
+
       path: './../work/madeleine/src/' // path to source directory from current html file
     });
 }; 
@@ -61,9 +62,9 @@ window.onload = function(){
 &lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
 &gt;&lt;/script&gt;
 
-&lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
+&lt;script src="./../w9/loader.js"&gt;&lt;/script&gt;
 
-&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
+&lt;script src="./../w9/stl.js"&gt;&lt;/script&gt;
 
 &lt;div&gt;
 select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
