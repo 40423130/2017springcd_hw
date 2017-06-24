@@ -165,7 +165,7 @@ ctx.stroke()
 ctx.beginPath()
 ctx.fillStyle = "#0000FF"
 ctx.font = "20px ScriptS"
-ctx.fillText("40423105 ",350, 300)
+ctx.fillText("40423130 ",350, 300)
 ctx.stroke()
 &lt;/script&gt;
 
@@ -317,7 +317,7 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 ctx.beginPath()
 ctx.fillStyle = "#0000FF"
 ctx.font = "20px ScriptS"
-ctx.fillText("40423105 ",360,620)
+ctx.fillText("40423130 ",360,620)
 ctx.stroke()
 &lt;/script&gt;
 
