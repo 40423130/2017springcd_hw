@@ -2020,7 +2020,9 @@ import add //導入 add.py&lt;/p&gt;
 &lt;p&gt;print(sum) //輸出結果
 &lt;/pre&gt;
 +法運算測試影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qCmBzuyp-Tg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/222929235" width="640" height="358" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222929235"&gt;+演算法&lt;/a&gt; from &lt;a href="https://vimeo.com/user61522994"&gt;40423130&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1&gt;網頁測試加法&lt;/h1&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
